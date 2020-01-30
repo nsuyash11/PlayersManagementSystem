@@ -1,2 +1,0 @@
-# PlayersManagementSystem
-Created with CodeSandbox
